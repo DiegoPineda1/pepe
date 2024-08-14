@@ -1,0 +1,14 @@
+C:\Users\Diego Pineda\source\repos\Productos\Productos\bin\Debug\net8.0\Productos.exe
+C:\Users\Diego Pineda\source\repos\Productos\Productos\bin\Debug\net8.0\Productos.deps.json
+C:\Users\Diego Pineda\source\repos\Productos\Productos\bin\Debug\net8.0\Productos.runtimeconfig.json
+C:\Users\Diego Pineda\source\repos\Productos\Productos\bin\Debug\net8.0\Productos.dll
+C:\Users\Diego Pineda\source\repos\Productos\Productos\bin\Debug\net8.0\Productos.pdb
+C:\Users\Diego Pineda\source\repos\Productos\Productos\obj\Debug\net8.0\Productos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego Pineda\source\repos\Productos\Productos\obj\Debug\net8.0\Productos.AssemblyInfoInputs.cache
+C:\Users\Diego Pineda\source\repos\Productos\Productos\obj\Debug\net8.0\Productos.AssemblyInfo.cs
+C:\Users\Diego Pineda\source\repos\Productos\Productos\obj\Debug\net8.0\Productos.csproj.CoreCompileInputs.cache
+C:\Users\Diego Pineda\source\repos\Productos\Productos\obj\Debug\net8.0\Productos.dll
+C:\Users\Diego Pineda\source\repos\Productos\Productos\obj\Debug\net8.0\refint\Productos.dll
+C:\Users\Diego Pineda\source\repos\Productos\Productos\obj\Debug\net8.0\Productos.pdb
+C:\Users\Diego Pineda\source\repos\Productos\Productos\obj\Debug\net8.0\Productos.genruntimeconfig.cache
+C:\Users\Diego Pineda\source\repos\Productos\Productos\obj\Debug\net8.0\ref\Productos.dll

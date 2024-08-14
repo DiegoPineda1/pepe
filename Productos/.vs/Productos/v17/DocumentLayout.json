@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Diego Pineda\\source\\repos\\Productos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{019D7B2B-7371-424E-86AE-38A68269F580}|Productos\\Productos.csproj|c:\\users\\diego pineda\\source\\repos\\productos\\productos\\suelto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019D7B2B-7371-424E-86AE-38A68269F580}|Productos\\Productos.csproj|solutionrelative:productos\\suelto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019D7B2B-7371-424E-86AE-38A68269F580}|Productos\\Productos.csproj|c:\\users\\diego pineda\\source\\repos\\productos\\productos\\packs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019D7B2B-7371-424E-86AE-38A68269F580}|Productos\\Productos.csproj|solutionrelative:productos\\packs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019D7B2B-7371-424E-86AE-38A68269F580}|Productos\\Productos.csproj|c:\\users\\diego pineda\\source\\repos\\productos\\productos\\iprecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019D7B2B-7371-424E-86AE-38A68269F580}|Productos\\Productos.csproj|solutionrelative:productos\\iprecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019D7B2B-7371-424E-86AE-38A68269F580}|Productos\\Productos.csproj|c:\\users\\diego pineda\\source\\repos\\productos\\productos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019D7B2B-7371-424E-86AE-38A68269F580}|Productos\\Productos.csproj|solutionrelative:productos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019D7B2B-7371-424E-86AE-38A68269F580}|Productos\\Productos.csproj|c:\\users\\diego pineda\\source\\repos\\productos\\productos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019D7B2B-7371-424E-86AE-38A68269F580}|Productos\\Productos.csproj|solutionrelative:productos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Suelto.cs",
+              "DocumentMoniker": "C:\\Users\\Diego Pineda\\source\\repos\\Productos\\Productos\\Suelto.cs",
+              "RelativeDocumentMoniker": "Productos\\Suelto.cs",
+              "ToolTip": "C:\\Users\\Diego Pineda\\source\\repos\\Productos\\Productos\\Suelto.cs",
+              "RelativeToolTip": "Productos\\Suelto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T03:19:47.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Packs.cs",
+              "DocumentMoniker": "C:\\Users\\Diego Pineda\\source\\repos\\Productos\\Productos\\Packs.cs",
+              "RelativeDocumentMoniker": "Productos\\Packs.cs",
+              "ToolTip": "C:\\Users\\Diego Pineda\\source\\repos\\Productos\\Productos\\Packs.cs",
+              "RelativeToolTip": "Productos\\Packs.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T03:07:23.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPrecio.cs",
+              "DocumentMoniker": "C:\\Users\\Diego Pineda\\source\\repos\\Productos\\Productos\\IPrecio.cs",
+              "RelativeDocumentMoniker": "Productos\\IPrecio.cs",
+              "ToolTip": "C:\\Users\\Diego Pineda\\source\\repos\\Productos\\Productos\\IPrecio.cs",
+              "RelativeToolTip": "Productos\\IPrecio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T03:03:42.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Diego Pineda\\source\\repos\\Productos\\Productos\\Producto.cs",
+              "RelativeDocumentMoniker": "Productos\\Producto.cs",
+              "ToolTip": "C:\\Users\\Diego Pineda\\source\\repos\\Productos\\Productos\\Producto.cs",
+              "RelativeToolTip": "Productos\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T03:01:44.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Diego Pineda\\source\\repos\\Productos\\Productos\\Program.cs",
+              "RelativeDocumentMoniker": "Productos\\Program.cs",
+              "ToolTip": "C:\\Users\\Diego Pineda\\source\\repos\\Productos\\Productos\\Program.cs",
+              "RelativeToolTip": "Productos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T03:01:10.195Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 250,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
